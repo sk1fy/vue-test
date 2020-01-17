@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(156, 156, 155);
+}
+
+.form-control:focus {
+    outline: none;
+}
+
+.active {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
